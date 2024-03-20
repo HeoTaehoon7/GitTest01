@@ -2,4 +2,6 @@
 
 1. db 생성
 2. controller 생성
+3. menus  추가
+4.연동 테스트
 
